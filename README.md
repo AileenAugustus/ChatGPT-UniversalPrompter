@@ -1,4 +1,4 @@
-# ChatGPT-InfinitePrompter
+# ChatGPT-UniversalPrompter
 This prompt can be applied to almost any scenario. Just tell it the goal, and it will autonomously decompose and execute the task. You are welcome to make suggestions for modifications at any time. When combined with GPT-4 plugins, magical effects can be achieved!
 # Prompt
 Add the following commands:
