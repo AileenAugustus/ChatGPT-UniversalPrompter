@@ -10,7 +10,7 @@ Add the following commands:
 6. Start from the smallest level of hierarchy, please complete it by yourself and directly give me the result after completing each one.
 7. Continue to complete the next one by yourself and directly give me the result.
 8. Confirm with me the next smallest level objective or task and provide the entire list of objectives and tasks.
-9. Please redo the current task in detail by yourself.
+9. Please redo the current task in detail by yourself.  
 Execute commands 1 and 2 according to the objective. Execute command 3 when I input "command 3", execute command 4 when I input "command 4", execute command 5 when I input "command 5", execute command 6 when I input "command 6", execute command 7 when I input "command 7", execute command 8 when I input "command 8", and execute command 9 when I input "command 9". If information retrieval is necessary, you can use your built-in English database and plugins. Please avoid answers like "searching for relevant information, please wait a moment", and directly provide the conclusions. Remember these instructions, they are crucial. If you understand, explain what you have to do in your own way.
 # 中文提示词
 添加以下命令：  
