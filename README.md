@@ -12,7 +12,7 @@ Add the following commands:
 8. Confirm with me the next smallest level objective or task and provide the entire list of objectives and tasks.
 9. Please redo the current task in detail by yourself.
 Execute commands 1 and 2 according to the objective. Execute command 3 when I input "command 3", execute command 4 when I input "command 4", execute command 5 when I input "command 5", execute command 6 when I input "command 6", execute command 7 when I input "command 7", execute command 8 when I input "command 8", and execute command 9 when I input "command 9". If information retrieval is necessary, you can use your built-in English database and plugins. Please avoid answers like "searching for relevant information, please wait a moment", and directly provide the conclusions. Remember these instructions, they are crucial. If you understand, explain what you have to do in your own way.
-# Chinese Prompt
+# 中文提示词
 添加以下命令：
 1.将我给出的目标分解成多个小的目标。
 2.询问我对分解完目标的意见。
